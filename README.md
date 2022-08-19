@@ -7,7 +7,7 @@
        - path: github.com/cdalas2/wowchemy-widget-about-slider-two-column
    ```
    
-2. Create an instance of your widget in `content/home/`, for example let's create `content/home/github.about-avatar-caption.md`:
+2. Create an instance of your widget in `content/home/`, for example let's create `content/home/github.cdalas2.about-avatar-caption.md`:
 ```markdown
 ---
 # An instance of the About Slider Two Column widget.
