@@ -4,7 +4,7 @@
    ```yaml
    module:
      imports:
-       - path: github.com/cdalas2/wowchemy-widget-about-avatar-caption
+       - path: github.com/cdalas2/wowchemy-widget-about-slider-two-column
    ```
    
 2. Create an instance of your widget in `content/home/`, for example let's create `content/home/github.about-avatar-caption.md`:
